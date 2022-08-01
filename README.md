@@ -1,9 +1,8 @@
 # honeygain-stats
 Daily updates for your Honeygain Earnings, via Discord Webhook
 
-## Example message:
+### Example message:
 ![image](https://cdn.upload.systems/uploads/USlo9cCN.png)
-
 
 ### Here is where you get your auth key:<br>
 ![image](https://cdn.upload.systems/uploads/JArS5MEo.png)
