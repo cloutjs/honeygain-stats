@@ -5,9 +5,9 @@ Here is how to get your auth key:<br>
 ![image](https://cdn.upload.systems/uploads/JArS5MEo.png)
 <br>(as seen in https://github.com/cloutjs/jumptask-api)
 
-<h2><b>Also don't forget to enter your Discord Webhook URL!</b></h2>
+<h3><b>Also don't forget to enter your Discord Webhook URL!</b></h3>
 
-Example message:<br>
+<h2>Example message:</h2><br>
 ![image](https://cdn.upload.systems/uploads/USlo9cCN.png)
 
 ## To-Do's:
