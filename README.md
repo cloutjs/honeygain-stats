@@ -11,5 +11,5 @@ Daily updates for your Honeygain Earnings, via Discord Webhook
 ![image](https://cdn.upload.systems/uploads/USlo9cCN.png)
 
 ## To-Do's:
-- tool to get your auth key simply with your email and password, easier for users who don't know a lot about web requests (easy)
+- simple tool to get your auth key simply with your email and password, easier for users who don't know a lot about web requests (easy)
 - show detailed changes (earned more or less then yesterday? how big is the change from yesterdays balance to todays? etc...) (easy, but takes a bit of work)
