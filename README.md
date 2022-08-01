@@ -5,7 +5,7 @@ Daily updates for your Honeygain Earnings, via Discord Webhook
 ![image](https://cdn.upload.systems/uploads/USlo9cCN.png)
 
 
-### Here is how to get your auth key:<br>
+### Here is where you get your auth key:<br>
 ![image](https://cdn.upload.systems/uploads/JArS5MEo.png)
 <br>(as seen in https://github.com/cloutjs/jumptask-api)
 
