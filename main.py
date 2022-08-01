@@ -58,7 +58,7 @@ while True:
     embed = DiscordEmbed(title='Honeygain Stats', color='03b2f8')
     embed.add_embed_field(name='Earned today', value=f'{credits_today()}')
     embed.add_embed_field(name='Total credits', value=f'{credits()}/20000 ({total_percent}%)')
-    embed.add_embed_field(name='Credits won', value=f'{winning_credits()}')
+    embed.add_embed_field(name='Credits won today', value=f'{winning_credits()}')
     embed.add_embed_field(name='Referral credits', value=f'{referral_credits()}')
     embed.add_embed_field(name='Streaming seconds', value=f'{streaming_seconds()}')
     embed.add_embed_field(name='Active Devices:', value=f'{active_devices()}/{total_devices()}')
