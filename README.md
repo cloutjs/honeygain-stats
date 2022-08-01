@@ -5,10 +5,9 @@ Daily updates for your Honeygain Earnings, via Discord Webhook
 ![image](https://cdn.upload.systems/uploads/JArS5MEo.png)
 <br>(as seen in https://github.com/cloutjs/jumptask-api)
 
-<h3><b>Also don't forget to enter your Discord Webhook URL!</b></h3>
+### <b>Also don't forget to enter your Discord Webhook URL!</b>
 
-<h2>Example message:</h2>
-
+## Example message:
 ![image](https://cdn.upload.systems/uploads/USlo9cCN.png)
 
 ## To-Do's:
