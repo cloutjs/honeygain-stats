@@ -1,5 +1,5 @@
 # honeygain-stats
-Daily updates for your Honeygain Earnings, via Discord Webhook
+Daily updates for your Honeygain Earnings, via Discord Webhook<br><br>
 this project is fully unofficial and is not related with Honeygain.com in any way<br><br>
 if you found this repo helpful please leave a star to show your appreciation and maybe drop a follow :)<br><br>
 for any questions please use githubs "Issues" function, thanks!
